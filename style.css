@@ -1,0 +1,90 @@
+body {
+  background-color: #F8F9FA;
+  font-family: 'Comme', sans-serif;
+  color: #343A40;
+  font-size: 16px;
+  line-height: 8px;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+ul{
+  padding-inline-start: 0px;
+}
+
+li{
+  list-style-type: none;
+  display: inline-block;
+  line-height: 32px;
+  padding: 0px;
+}
+
+.body-main {
+  background-color: #ADB5BD;
+  width: 800px;
+  margin: 0 auto;
+  margin-bottom: 32px;
+  padding: 25px;
+  border-radius: 5px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  text-align: center;
+}
+
+.intro-parent {
+  width: 800px;
+  display: flex;
+  justify-content: left;
+  margin-bottom: 0px;
+  box-shadow: none;
+}
+
+.intro-child-profile-pic {
+  margin-right: 10px;
+  width: 200px;
+  height: 200px;
+  border-radius: 0px;
+  padding: 0px;
+  box-shadow: none;
+}
+
+.intro-child-description {
+  background-color: #F8F9FA;
+  margin-left: 10px;
+  width: 800px;
+  height: 175px;
+  border-radius: 5px;
+}
+
+.body-div {
+  background-color: #F8F9FA;
+  border-color: #212529
+  width: 800px;
+  margin: 0 auto;
+  margin-bottom: 16px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,.1);
+  text-align: center;
+  padding-top: 16px;
+}
+
+
+.fa-brands {
+  color: #343A40;
+  font-size: 60px;
+  inline-size: 100px;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  max-width: 100%;
+  max-height: 100%;
+  margin: 10px;
+}
+
+.business-logo {
+  padding-left: 10px;
+  padding-right: 10px;
+}
